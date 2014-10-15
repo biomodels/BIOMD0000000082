@@ -1,3 +1,21 @@
+# BIOMD0000000082: Model_1
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000082.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000082.git@20140916`
+
+
+# Model Notes
 
 
 This model was created according to the paper _Inhibition of Adenylate Cyclase
@@ -11,4 +29,5 @@ initial concentration of R and D were not given in the paper ,so we gave it
 
 Pay attention that the simulations of steady state concentration of species in
 arbitrary units are shown for figure4 and figure6 in the paper.
+
 
